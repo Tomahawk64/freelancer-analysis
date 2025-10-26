@@ -3,7 +3,11 @@
 A full-stack MERN application for analyzing freelancer performance, activity metrics, and skill distribution across regions.
 
 ![Tech Stack](https://img.shields.io/badge/Stack-MERN-green)
+![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-18.2-61DAFB?logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
 ## 📋 Table of Contents
 
